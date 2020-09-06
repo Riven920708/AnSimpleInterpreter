@@ -1,2 +1,2 @@
-# hello_world
-Never mind!Just a test.
+# an interpreter, learning project
+Never mind!
